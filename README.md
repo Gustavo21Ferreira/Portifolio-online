@@ -26,6 +26,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou faz
 
 📧 Contato
 E-mail: gu-ribe@hotmail.com
-LinkedIn
+
+LinkedIn: https://www.linkedin.com/in/gustavo-front-end/
 
 deploy: https://gustavo21ferreira.github.io/Portifolio-online/
