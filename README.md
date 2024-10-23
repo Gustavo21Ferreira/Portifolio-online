@@ -25,5 +25,7 @@ Este projeto está licenciado sob a MIT License.
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou fazer um fork do projeto.
 
 📧 Contato
-E-mail: voce@email.com
+E-mail: gu-ribe@hotmail.com
 LinkedIn
+
+deploy: https://gustavo21ferreira.github.io/Portifolio-online/
