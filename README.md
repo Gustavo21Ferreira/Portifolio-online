@@ -8,7 +8,8 @@ Sessão para habilidades técnicas e interpessoais
 Linha do tempo de experiências profissionais e educacionais
 Seção de portfólio com links para projetos
 Formulário de contato direto
-Design responsivo para diferentes tamanhos de tela
+Design responsivo para diferentes tamanhos de tela.
+
 🛠️ Tecnologias Utilizadas
 HTML5 e CSS3: Estrutura e estilo
 JavaScript: Interatividade (como animações ou validação do formulário)
