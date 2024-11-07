@@ -5,8 +5,7 @@ Um portfólio interativo e online para apresentar meu currículo e habilidades d
 
 🚀 Funcionalidades
 Exibição de informações pessoais e perfil profissional
-Sessão para habilidades técnicas e interpessoais
-Linha do tempo de experiências profissionais e educacionais
+Sessão para habilidades técnicas e interpessoais,
 Seção de portfólio com links para projetos
 Formulário de contato direto
 Design responsivo para diferentes tamanhos de tela.
